@@ -76,7 +76,7 @@ We welcome fellow arcane researchers to join our quest. If you wish to contribut
 
 ## 📜 License
 
-This project is licensed under the GPL3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GPL3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🧙‍♂️ Authors
 
