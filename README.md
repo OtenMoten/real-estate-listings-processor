@@ -6,18 +6,18 @@ Welcome to the Real Estate Market Analyzer, where property data transforms into 
 
 This Python application, lovingly crafted by Team BitFuture, is a sophisticated, open-source toolkit designed to crunch numbers, generate charts, and create reports that would make even the most seasoned real estate mogul nod in approval. It's perfect for those looking to dive deep into the sea of property data and emerge with pearls of wisdom.
 
-## ✨ Key Features
+This project brings together a fellowship of powerful components:
+
+- **matplotlib**: The Visuals Generator, powered by [matplotlib](https://github.com/matplotlib/matplotlib)
+- **Pandas**: The Calculation Tool, empowered by [Pandas](https://github.com/pandas-dev/pandas)
+
+## ✨ Capabilities
 
 - **Data Sorcery**: Load and clean real estate data from Excel files 📊
 - **Number Crunching**: Process data to extract key market insights 🧮
 - **Visual Enchantments**: Generate eye-catching visualizations 📈
 - **Report Conjuring**: Create comprehensive markdown reports 📝
 - **Quality Assurance Spells**: Rigorous testing to ensure reliability 🧪
-
-## 🧪 Main Components
-
-- **RealEstateListingsProcessor**: The heart of our data analysis magic
-- **TestRealEstateListingsProcessor**: Our quality assurance wizard
 
 ## 🔮 Installation
 
@@ -41,8 +41,6 @@ To set up your own Real Estate Market Analyzer laboratory:
 To initiate the real estate market analysis ritual:
 
 ```python
-from RealEstateListingsProcessor import RealEstateListingsProcessor
-
 def main():
     app = RealEstateListingsProcessor()
     app.load_data('input')
@@ -78,17 +76,11 @@ We welcome fellow arcane researchers to join our quest. If you wish to contribut
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GPL3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🧙‍♂️ Authors
 
-- **Team BitFuture** - *Archmages of Real Estate Data* - [team-bitfuture.de](https://team-bitfuture.de)
-- **Ossenbrück** - *Lead Developer* - [ossenbrück.de](https://ossenbrück.de)
-
-## 🎩 Acknowledgments
-
-- A tip of the hat to pandas, matplotlib, and all the other magical Python libraries that make this possible
-- A round of applause for all the real estate professionals who inspired this project
+- **Kevin Ossenbrück** - *Lead Developer at Team Bitfuture* - [ossenbrück.de](https://ossenbrück.de)
 
 ## 🌟 Connect with Team BitFuture
 
